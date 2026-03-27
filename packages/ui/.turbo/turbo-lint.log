@@ -1,0 +1,20 @@
+
+
+> @my-app/ui@0.0.1 lint /Users/ratan/myproj/my-app/packages/ui
+> eslint src/
+
+=============
+
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
+
+
+* @typescript-eslint/typescript-estree version: 8.57.2
+* Supported TypeScript versions: >=4.8.4 <6.0.0
+* Your TypeScript version: 6.0.2
+
+
+Please only submit bug reports when using the officially supported version.
+
+
+=============

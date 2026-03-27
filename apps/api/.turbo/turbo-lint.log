@@ -1,0 +1,26 @@
+
+
+> @my-app/api@0.0.1 lint /Users/ratan/myproj/my-app/apps/api
+> eslint src/
+
+=============
+
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
+
+
+* @typescript-eslint/typescript-estree version: 8.57.2
+* Supported TypeScript versions: >=4.8.4 <6.0.0
+* Your TypeScript version: 6.0.2
+
+
+Please only submit bug reports when using the officially supported version.
+
+
+=============
+[0m
+[4m/Users/ratan/myproj/my-app/apps/api/src/index.ts[24m
+  [2m13:3[22m  [33mwarning[39m  Unexpected console statement  [2mno-console[22m
+
+[33m[1m✖ 1 problem (0 errors, 1 warning)[22m[39m
+[0m
